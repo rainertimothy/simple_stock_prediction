@@ -3,4 +3,4 @@ Interactive stock dashboard filled with stock visualization, stock prediction, a
 
 Read first Run_file.txt before run streamlit file
 
-Streamlit file is Forecast_page.py
+Streamlit file is Forecast_Page.py
