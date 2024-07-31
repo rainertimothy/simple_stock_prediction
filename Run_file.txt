@@ -4,4 +4,7 @@
 3. Open cmd
 4. Install streamlit (pip install streamlit)
 5. Navigate to the extracted folder using cmd (use 'cd' command to navigate to the folder where you extracted the files)
-ex : (cd 'C:\simple_stock_prediction)
+   ex : (cd 'C:\simple_stock_prediction)
+6. Identify python file to run with streamlit (Forecast_Page.py)
+7. Execute this command (streamlit run Forecast_Page.py)
+8. Streamlit will open local browser and wait for another minutes to load
