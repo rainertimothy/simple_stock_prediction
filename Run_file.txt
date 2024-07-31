@@ -1,0 +1,7 @@
+==============How to run file==============
+1. Download all repository
+2. Extract ZIP and save to any location on your computer
+3. Open cmd
+4. Install streamlit (pip install streamlit)
+5. Navigate to the extracted folder using cmd (use 'cd' command to navigate to the folder where you extracted the files)
+ex : (cd 'C:\simple_stock_prediction)
